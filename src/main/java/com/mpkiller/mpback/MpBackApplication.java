@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MpBackApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(MpBackApplication.class, args);
     }
 
